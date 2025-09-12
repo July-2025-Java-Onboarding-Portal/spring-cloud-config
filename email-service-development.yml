@@ -2,8 +2,5 @@ spring:
   application:
     name: housing-service
 
-server:
-  port: 8084
-
 user:
   role: config-client-test
