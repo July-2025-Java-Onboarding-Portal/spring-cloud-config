@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: visa-management-backend
+
+server:
+  port: 8083
+
+user:
+  role: config-client-test
