@@ -1,6 +1,6 @@
 spring:
   application:
-    name: housing-service
+    name: email-service
 
 server:
   port: 8082
